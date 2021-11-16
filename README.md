@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SrodrigoEld
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<H2> Git para organização de arquivos </H2>
 - 📫 How to reach me ...
+- 
+<h4>✨ Material de estudo ✨ </h4>
 
-<!---
-SrodrigoEld/SrodrigoEld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Assunto | Conteudo | Breve descrição |
+| --- |:---:| :---|
+| [Shiny](https://bookdown.org/yihui/rmarkdown/shiny.html#getting-started) | Guia Geral | Capitulo do livro de Rmarkdown |
+
+
